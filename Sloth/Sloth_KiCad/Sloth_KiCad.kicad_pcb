@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 85)
+    (drawings 86)
     (tracks 179)
     (zones 0)
     (modules 32)
@@ -1960,6 +1960,7 @@
       (xy 0.484425 -8.147398) (xy 0.591367 -8.180042) (xy 0.635 -8.183004) (xy 0.730588 -8.116646)) (layer F.Cu) (width 0.01))
   )
 
+  (gr_poly (pts (xy 55.88 83.82) (xy 73.66 83.82) (xy 73.66 101.6) (xy 55.88 101.6)) (layer B.Mask) (width 0.15))
   (gr_text SMALL (at 53.34 100.838 90) (layer F.SilkS) (tstamp 5BFD0E7B)
     (effects (font (size 1.27 1.27) (thickness 0.254)))
   )

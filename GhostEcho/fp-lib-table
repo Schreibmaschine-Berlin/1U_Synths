@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 4ms-footprints)(type KiCad)(uri /Users/brian/Downloads/4ms-kicad-lib-master/4ms-footprints.pretty)(options "")(descr ""))
+  (lib (name bourns)(type KiCad)(uri "/Users/brian/Documents/KiCad/Mcous Kicad Lib/footprints/bourns.pretty")(options "")(descr ""))
+)
